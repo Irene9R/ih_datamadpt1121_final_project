@@ -1,0 +1,38 @@
+internalTaxonId,scientificName,kingdomName,phylumName,className,orderName,familyName,genusName,speciesName,infraType,infraName,infraAuthority,subpopulationName,authority,taxonomicNotes
+176047,Tetrapleurodon geminis,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Tetrapleurodon,geminis,,,,,"Alvarez, 1964",
+135505,Eudontomyzon sp. nov. 'migratory',ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Eudontomyzon,sp. nov. 'migratory',,,,,,"Anadromous predatory lampreys are reported in the literature and are considered to be extinct. In fact, the literature is ambiguous. The record of a migratory lamprey in the Prut system refers to a non-predatory species close to <i>E. mariae</i> but there is no evidence that it was anadromous. Attempts to obtain migratory lampreys in recent years in the Dniestr, Dniepr and Don have been unsuccessful; fishermen are not aware of its existence."
+135530,Eudontomyzon stankokaramani,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Eudontomyzon,stankokaramani,,,,,"Karaman, 1974",
+135609,Lethenteron reissneri,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Lethenteron,reissneri,,,,,"(Dybowski, 1869)","Lampreys identified as <em>L. kessleri</em> from Arctic basin are <em>L. reissneri</em> and part of those from Sakhalin, Japan and rivers of the Sea of Japan belong to <em>L. reissneri</em> and two unnamed species."
+135706,Caspiomyzon wagneri,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Caspiomyzon,wagneri,,,,,"(Kessler, 1870)",
+13852,Mordacia lapicida,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Mordacia,lapicida,,,,,"(Gray, 1851)",
+8172,Eudontomyzon danfordi,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Eudontomyzon,danfordi,,,,,"Regan, 1911",
+8174,Eudontomyzon vladykovi,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Eudontomyzon,vladykovi,,,,,"Oliva &amp; Zanandrea, 1959",
+11209,Entosphenus minimus,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Entosphenus,minimus,,,,,"(Bond & Kan, 1973)",
+202622,Lampetra aepyptera,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Lampetra,aepyptera,,,,,"(Abbott, 1860)",
+16781,Petromyzon marinus,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Petromyzon,marinus,,,,,"Linnaeus, 1758",
+202625,Lampetra ayresii,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Lampetra,ayresii,,,,,"(Günther, 1870)",
+202631,Entosphenus similis,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Entosphenus,similis,,,,,"Vladykov & Kott, 1979",
+202620,Ichthyomyzon greeleyi,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Ichthyomyzon,greeleyi,,,,,"Hubbs & Trautman, 1937",
+202619,Ichthyomyzon gagei,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Ichthyomyzon,gagei,,,,,"Hubbs & Trautman, 1937",
+135719,Lethenteron camtschaticum,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Lethenteron,camtschaticum,,,,,"(Tilesius, 1811)",Earlier known as <em>Lethenteron japonicum</em>.
+202623,Lethenteron alaskense,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Lethenteron,alaskense,,,,,"Vladykov & Kott, 1978",
+202616,Ichthyomyzon bdellium,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Ichthyomyzon,bdellium,,,,,"(Jordan, 1885)",
+202629,Entosphenus lethophagus,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Entosphenus,lethophagus,,,,,"(Hubbs, 1971)",
+11207,Lampetra hubbsi,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Lampetra,hubbsi,,,,,"(Vladykov &amp; Kott, 1976)",Recently known as <em>Entosphenus hubbsi</em>.
+202630,Lampetra richardsoni,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Lampetra,richardsoni,,,,,"Vladykov & Follett, 1965",
+202618,Ichthyomyzon fossor,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Ichthyomyzon,fossor,,,,,"Reighard & Cummins, 1916",
+202617,Ichthyomyzon castaneus,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Ichthyomyzon,castaneus,,,,,"Girard, 1858",
+19514118,Lampetra ninae,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Lampetra,ninae,,,,,"(Naseka, Tuniyev &amp; Renaud, 2009)","In its original description, Naseka <em>et al</em>. (2009) placed this species in <em>Lethenteron</em>. However conclusive molecular data presented by Lang <em>et al</em>. (2009) place the species in <em>Lampetra</em>."
+202621,Ichthyomyzon unicuspis,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Ichthyomyzon,unicuspis,,,,,"Hubbs & Trautman, 1937",
+202624,Lethenteron appendix,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Lethenteron,appendix,,,,,"(DeKay, 1842)",
+11208,Entosphenus macrostoma,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Entosphenus,macrostoma,,,,,"Beamish, 1982",
+8173,Eudontomyzon mariae,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Eudontomyzon,mariae,,,,,"(Berg, 1931)",
+11206,Lampetra fluviatilis,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Lampetra,fluviatilis,,,,,"(Linnaeus, 1758)",
+11213,Lampetra planeri,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Lampetra,planeri,,,,,"(Bloch, 1784)",
+122898736,Mordacia mordax,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Mordacia,mordax,,,,,"(Richardson, 1846)",
+169396,Tetrapleurodon spadiceus,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Tetrapleurodon,spadiceus,,,,,"(Bean, 1887)",This species previously appeared on the IUCN Red List in the genus&#160;<em>Lampetra </em>but is now considered valid in the genus <em>Tetrapleurodon</em>.
+60798,Lampetra zanandreai,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Lampetra,zanandreai,,,,,"Vladykov, 1955",
+13851,Mordacia praecox,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Mordacia,praecox,,,,,"Potter, 1968",
+61198,Caspiomyzon hellenicus,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Caspiomyzon,hellenicus,,,,,"(Vladykov, Renaud, Kott &amp; Economidis, 1982)",
+19513875,Lampetra lanceolata,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Lampetra,lanceolata,,,,,"Kux &amp; Steiner, 1972",
+197275,Geotria australis,ANIMALIA,CHORDATA,CEPHALASPIDOMORPHI,PETROMYZONTIFORMES,PETROMYZONTIDAE,Geotria,australis,,,,,"Gray, 1851",

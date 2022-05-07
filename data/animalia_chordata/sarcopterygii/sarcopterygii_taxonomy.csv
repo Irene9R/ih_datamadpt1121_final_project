@@ -1,0 +1,8 @@
+internalTaxonId,scientificName,kingdomName,phylumName,className,orderName,familyName,genusName,speciesName,infraType,infraName,infraAuthority,subpopulationName,authority,taxonomicNotes
+11375,Latimeria chalumnae,ANIMALIA,CHORDATA,SARCOPTERYGII,COELACANTHIFORMES,LATIMERIIDAE,Latimeria,chalumnae,,,,,"Smith, 1939",
+135484,Latimeria menadoensis,ANIMALIA,CHORDATA,SARCOPTERYGII,COELACANTHIFORMES,LATIMERIIDAE,Latimeria,menadoensis,,,,,"Pouyaud, Wirjoatmodjo, Rachmatika, Tjakrawidjaja, Hadiaty &amp; Hadie, 1999",This species is nearly identical in appearance to <i>Latimeria chalumnae</i> from the western Indian Ocean.
+182130,Protopterus amphibius,ANIMALIA,CHORDATA,SARCOPTERYGII,LEPIDOSIRENIFORMES,PROTOPTERIDAE,Protopterus,amphibius,,,,,"(Peters, 1844)","Taxonomic status of the Kenyan populations are uncertain. Most likely it is a species distinct from <em>Protopterus aff. amphibius</em> (Seegers<em> <em>et al.</em></em> unpublished). <br/>The type specimen was collected in Quelimane, northern braid of the Zambezi Delta, central Mozambique."
+183033,Protopterus dolloi,ANIMALIA,CHORDATA,SARCOPTERYGII,LEPIDOSIRENIFORMES,PROTOPTERIDAE,Protopterus,dolloi,,,,,"Boulenger, 1900",
+182574,Protopterus aethiopicus,ANIMALIA,CHORDATA,SARCOPTERYGII,LEPIDOSIRENIFORMES,PROTOPTERIDAE,Protopterus,aethiopicus,,,,,"Heckel, 1851",
+122899816,Neoceratodus forsteri,ANIMALIA,CHORDATA,SARCOPTERYGII,CERATODONTIFORMES,NEOCERATODONTIDAE,Neoceratodus,forsteri,,,,,"(Krefft, 1870)",
+169408,Protopterus annectens,ANIMALIA,CHORDATA,SARCOPTERYGII,LEPIDOSIRENIFORMES,PROTOPTERIDAE,Protopterus,annectens,,,,,"(Owen, 1839)",Two subspecies are known - <em>P. a. annectens</em> and <em>P. a. brieni</em>.

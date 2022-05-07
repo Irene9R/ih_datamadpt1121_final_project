@@ -1,0 +1,39 @@
+command (Windows 64)
+
+conda install -c anaconda python
+pip install pandas
+pip install numpy
+conda install -c conda-forge argparse
+pip install functools
+pip install os-sys
+
+
+Jupyter Notebook (librerias)
+
+import numpy as np
+import pandas as pd
+from tabulate import tabulate
+
+# Gráficos
+# ==============================================================================
+Tableu-Public
+
+
+# Preprocesado y modelado
+# ==============================================================================
+import time
+import pandas as pd
+import numpy as np
+from functools import reduce
+from os import listdir
+from os.path import isfile, join
+import warnings
+import time
+import argparse
+import webbrowser
+
+
+
+
+
+
