@@ -34,7 +34,7 @@ I used approximately 50 or more csv for this project.
 
 For me the data collection phase was the most challenging one in this project.
 
-![image](https://i.gifer.com/embedded/download/9nLP.gif)
+![image](https://raw.githubusercontent.com/Irene9R/ih_datamadpt1121_final_project/main/imagenes/9nLP.gif)
 
 #### **Exploratory Analysis** ####
 I did my data analysis using jupyter notebook. I decided to work with several dataframes in order to be able to analyze in more detail all the information available, as some animals are located in more than one region or live in several habitats, so in order to avoid duplicates, I worked with information separately.  
@@ -115,8 +115,6 @@ Future improvements:
 ## **Please remember to do your part  to save the planet and all it's inhabitants.** ##
 
 # WE DID IT!!!!
-
-![Image](https://c.tenor.com/p662RWbCxJAAAAAd/ead-formatura.gif)
 
 
 
